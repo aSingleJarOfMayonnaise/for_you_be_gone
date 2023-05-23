@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Automatically switches to the 'Latest' tab of a YouTube channel's video section. I got really annoyed at it defaulting to 'For You' so I shoved this mess together to fix the problem.
 // @author       aSingleJarOfMayonnaise
-// @match        *://*.youtube.com/@*
+// @match        *://*.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @grant        none
 // ==/UserScript==
